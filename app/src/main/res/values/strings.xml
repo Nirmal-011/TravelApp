@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="introTitle">Explore the<font color="#3F95EC">\n world </font>with us</string>
+    <string name="recommended">Recommended</string>
+    <string name="see_all">See all</string>
+    <string name="popular_destination">Popular Destination</string>
+</resources>
